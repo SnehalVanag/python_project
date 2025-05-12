@@ -12,12 +12,8 @@ function App() {
       <div>
     <MarketingDashboard />
       </div>
-<<<<<<< HEAD
-     
-=======
       <h1>Python project .....</h1>
       <h2>i am sonali</h2>
->>>>>>> b7cc997016eb510178f0db3a48088750b83a4c5f
    
    
     </>
