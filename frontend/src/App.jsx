@@ -11,7 +11,8 @@ function App() {
       <div>
     
       </div>
-      <h1>Python project</h1>
+      <h1>Python project .....</h1>
+      <h2>i am sonali</h2>
    
    
     </>
